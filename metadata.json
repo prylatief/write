@@ -1,0 +1,5 @@
+{
+  "name": "AutoPaper Pro",
+  "description": "An academic writing assistant powered by Gemini. Helps researchers develop well-structured, ethically sound research papers with inline superscript citations.",
+  "requestFramePermissions": []
+}
